@@ -1,8 +1,8 @@
 # TestRepo
-JustForTest
-Doing some changes with VIM
-qwe
-qwe
-aa
-z
+JustForTest\n
+Doing some changes with VIM\n
+qwe\n
+qwe\n
+aa\n
+z\n
 s
